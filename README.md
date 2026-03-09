@@ -245,9 +245,9 @@ Checking heart rate - Sending vehicle control signals
 # Authors
 
 -   Gali Rohith
+-   K Ram Prasad
 -   P Surendra
 -   G S Vikram
--   K Ram Prasad
 -   S B Jeevan
 
 Department of Computer Science and Engineering\
